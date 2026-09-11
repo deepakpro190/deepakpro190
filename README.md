@@ -172,8 +172,8 @@ Conducted research based on the IEEE Transactions paper:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 🌐 Portfolio: [Your Portfolio URL]
+- 💼 LinkedIn: [[Your LinkedIn URL]](https://www.linkedin.com/in/deepak-goel-993b4b337/)
+- 🌐 Portfolio:[ [Your Portfolio URL]](https://portfolio-deepak-tau.vercel.app/)
 - 📧 Email: deepak.goel.ug23@nsut.ac.in
 
 ---
